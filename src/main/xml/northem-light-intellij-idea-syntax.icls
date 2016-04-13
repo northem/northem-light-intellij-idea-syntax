@@ -1,0 +1,163 @@
+<!--
++++++++++++++++++++++++++++++++++++++++++++++++++++
+title     Northem Light IntelliJ IDEA Syntax      +
+project   northem-light-intellij-idea-syntax      +
+file      northem-light-intellij-idea-syntax.icls +
+version                                           +
+website   http://arcticicestudio.com/northem      +
+author    Arctic Ice Studio                       +
+email     development@arcticicestudio.com         +
+copyright Copyright (C) 2015-2016                 +
+created   2015-11-05 17:30 UTC+0100               +
+modified  2016-04-13 14:50 UTC+0200               +
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[Description]
+A north-bluish light theme based on the same named color palette "Northem Light".
+This is a light and more color-intensive variation of the "Northem" color palette.
+
+NOTE:
+  THIS FILE WILL BE OVERRIDEN WHEN THE SETTINGS ARE CHANGED INSIDE THE IDE!
+  TO KEEP THE METADATA COMMENT DOCUMENTATION AND FORMATTING EDIT THIS FILE MANUALLY!
+
+[Variations]
+Also available as:
+  - "Northem IntelliJ IDEA Syntax"      (https://github.com/arcticicestudio/northem-intellij-idea-syntax)
+  - "Northem Dark IntelliJ IDEA Syntax" (https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax)
+
+Also stay tuned for the "Northem Light - IntelliJ IDEA UI"!
+
+[Other Projects]
+  - "Northem Light Atom Syntax"    (https://github.com/arcticicestudio/northem-light-atom-syntax)
+  - "Northem Light Eclipse Syntax" (https://github.com/arcticicestudio/northem-light-eclipse-syntax)
+  - "Northem Light gedit"          (https://github.com/arcticicestudio/northem-light-gedit)
+  - "Northem Light GTK"            (in drafting)
+  - "Northem Light Notepad++"      (https://github.com/arcticicestudio/northem-light-notepadplusplus) (Windows only)
+
+Visit the official website http://arcticicestudio.com/northem (actually under construction) for more information.
+
+[Global Settings]
+  - Console Colors
+  - Console Font
+  - Custom
+  - Debugger
+  - File Status
+  - Font
+  - General
+  - Language Defaults
+
+[Default Languages]
+  - Android Logcat
+  - Diff
+  - Groovy
+  - HTML
+  - Java
+  - JSON
+  - Properties
+  - RegExp
+  - XML
+
+[Plugin Support]
+  - ".ignore"                           (https://plugins.jetbrains.com/plugin/7495)
+  - "Apache Avro IDL"                   (https://plugins.jetbrains.com/plugin/7971)
+  - "Apache config (.htaccess) support" (https://plugins.jetbrains.com/plugin/6834)
+  - "BashSupport"                       (https://plugins.jetbrains.com/plugin/4230)
+  - "Batch Scripts Support"             (https://plugins.jetbrains.com/plugin/265)
+  - "C / C++"                           (https://plugins.jetbrains.com/plugin/1373)
+  - "La Clojure"                        (https://plugins.jetbrains.com/plugin/4050)
+  - "Dart"                              (https://plugins.jetbrains.com/plugin/6351)
+  - "Erlang"                            (https://plugins.jetbrains.com/plugin/7083)
+  - "GLSL Support"                      (https://plugins.jetbrains.com/plugin/6993)
+  - "Go"                                (https://plugins.jetbrains.com/plugin/5047)
+  - "Handlebars/Mustache"               (https://plugins.jetbrains.com/plugin/6884)
+  - "Haxe Support"                      (https://plugins.jetbrains.com/plugin/6873)
+  - "Kotlin"                            (https://plugins.jetbrains.com/plugin/6954)
+  - "LaTeX"                             (https://plugins.jetbrains.com/plugin/7660)
+  - "Lua"                               (https://plugins.jetbrains.com/plugin/5055)
+  - "Markdown Support"                  (https://plugins.jetbrains.com/plugin/7793)
+  - "Puppet Support"                    (https://plugins.jetbrains.com/plugin/7180)
+  - "Python Community Edition"          (https://plugins.jetbrains.com/plugin/7322)
+  - "ReStructuredText Support"          (https://plugins.jetbrains.com/plugin/7124)
+  - "Scala"                             (https://plugins.jetbrains.com/plugin/1347)
+  - "TYPO3 TypoScript Support"          (https://plugins.jetbrains.com/plugin/6965)
+  - "YAML/Ansible support"              (https://plugins.jetbrains.com/plugin/7792)
+
+[Version]
+- (https://github.com/arcticicestudio/northem-light-intellij-idea-syntax/releases/latest)
+
+IntelliJ IDEA Community Edition: 15.0.x, 14.1.x
+
+For older versions check out the GitHub Repository (https://github.com/arcticicestudio/northem-light-intellij-idea-syntax) and http://arcticicestudio.com/northem (actually under construction).
+
+[Changelog]
+Check out the "CHANGELOG.md" file.
+All changelogs are available at the GitHub Repository (https://github.com/arcticicestudio/northem-light-intellij-idea-syntax)
+and http://arcticicestudio.com/northem (actually under construction).
+
+[Installation]
+Download and install the required font, read section "Dependencies" for more information.
+
+Install the theme via the "Import Settings" option
+  - "Configure" > "Import Settings" on the Welcome Screen
+  or
+  - "File" > "Import Settings" while in the IDE Project Mode
+
+Alternatively install it manually by copying the file to the "colors" folder located inside of your
+IntelliJ IDEA config folder ($IDEA_HOME/colors).
+Read the official documentation (https://www.jetbrains.com/idea/help/project-and-ide-settings.html)
+for more information about folder locations.
+
+Activate it by going to the "Settings" > "Colors & Fonts" section and select "Northem Light" from
+the "Scheme" drop-down menu.
+
+[Development]
+Workflow
+  This project follows the "gitflow" (http://nvie.com/posts/a-successful-git-branching-model) branching model.
+
+Specifications
+  This project follows the "Arctic Versioning Specification (ArcVer)" (https://github.com/arcticicestudio/arcver).
+
+[Dependencies]
+Production
+  Engines
+    - idea@15.0.* (https://atom.io)
+
+Development
+  - northem-light@1.0.2 (https://github.com/arcticicestudio/northem-light)
+
+  Engines
+    - git@2.8.* (https://git-scm.com)
+
+  Skeletons
+    - glacier-git@0.22.0 (https://github.com/arcticicestudio/glacier-git)
+
+[Contribution]
+Please report issues/bugs, suggestions for improvements and feature requests to the issuetracker:
+https://github.com/arcticicestudio/northem-light-intellij-idea-syntax/issues.
+
+[Author]
+"Northem Light - IntelliJ IDEA Syntax" (https://github.com/arcticicestudio/northem-light-intellij-idea-syntax) is developed and authored by
+Arctic Ice Studio (http://arcticicestudio.com).
+
+[Copyright]
+Copyright (C) 2015-2016 Arctic Ice Studio <development@arcticicestudio.com>
+
+[License]
+Northem code is licensed under "GPL 3.0" (http://www.gnu.org/licenses/gpl.txt).
+Northem color palette itself is licensed under "CC BY-SA 4.0" (http://creativecommons.org/licenses/by-sa/4.0/).
+
+[References]
+Northem Light
+  (http://github.com/arcticicestudio/northem-light)
+Northem
+  (http://github.com/arcticicestudio/northem)
+IntelliJ IDEA Documentation
+  (https://www.jetbrains.com/idea/help/configuring-colors-and-fonts.html)
+Arctic Versioning Specification (ArcVer)
+  (http://specs.arcticicestudio.com/arcver)
+gitflow
+  (http://nvie.com/posts/a-successful-git-branching-model)
+Glacier - Git
+  (https://github.com/arcticicestudio/glacier-git)
+-->
+<scheme name="Northem Light" version="141" parent_scheme="Darcula"></scheme>
