@@ -76,14 +76,14 @@ Visit the [official website](http://arcticicestudio.com/northem) (actually under
 
 
 ### Version
-[`-`](https://github.com/arcticicestudio/northem-light-intellij-idea-syntax/releases/latest)
+[`0.0.0`](https://github.com/arcticicestudio/northem-light-intellij-idea-syntax/releases/latest)
 
 Supported IntelliJ IDEA Community Editions: `15.0.x`, `14.1.x`
 
 For older versions check out the [GitHub Repository](https://github.com/arcticicestudio/northem-light-intellij-idea-syntax) or [official website](http://arcticicestudio.com/northem) (actually under construction).
 
 ### Changelog
-[`-`](CHANGELOG.md)
+[`0.0.0`](CHANGELOG.md)
 
 ### Installation
 Download and install the required font, read section [Dependencies](#Dependencies) for more information.
