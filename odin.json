@@ -1,10 +1,10 @@
 {
   "id": "northem-light-intellij-idea-syntax",
   "name": "Northem Light - IntelliJ IDEA Syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "date": {
    "created": "2015-11-05 17:30 UTC+0100",
-   "updated": "2016-04-13 14:40 UTC+0200"
+   "updated": "2016-04-13 14:55 UTC+0200"
   },
   "access": "public",
   "modularity": "subproject",
