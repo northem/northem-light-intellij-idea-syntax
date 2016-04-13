@@ -160,4 +160,62 @@ gitflow
 Glacier - Git
   (https://github.com/arcticicestudio/glacier-git)
 -->
-<scheme name="Northem Light" version="141" parent_scheme="Darcula"></scheme>
+<scheme name="Northem Light" version="141" parent_scheme="Darcula">
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+     + Global Options                                                         [1] +
+     +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + -->
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="c5c961" />
+    <option name="ANNOTATIONS_COLOR" value="7acac2" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="7acac2" />
+    <option name="BORDER_LINES_COLOR" value="ffc568" />
+    <option name="CARET_COLOR" value="6d6d6f" />
+    <option name="CARET_ROW_COLOR" value="f2f2f7" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="f9f9fc" />
+    <option name="DELETED_LINES_COLOR" value="df5c5a" />
+    <option name="FILESTATUS_ADDED" value="c5c961" />
+    <option name="FILESTATUS_DELETED" value="df5c5a" />
+    <option name="FILESTATUS_HIJACKED" value="f19054" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="df5c5a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c6c6c8" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f19054" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffc568" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f19054" />
+    <option name="FILESTATUS_MERGED" value="c5c961" />
+    <option name="FILESTATUS_MODIFIED" value="ffc568" />
+    <option name="FILESTATUS_NOT_CHANGED" value="6d6d6f" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="ffc568" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="ffc568" />
+    <option name="FILESTATUS_OBSOLETE" value="ffc568" />
+    <option name="FILESTATUS_SWITCHED" value="7acac2" />
+    <option name="FILESTATUS_UNKNOWN" value="df5c5a" />
+    <option name="GUTTER_BACKGROUND" value="f2f2f7" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="" />
+    <option name="INDENT_GUIDE" value="c6c6c8" />
+    <option name="LINE_NUMBERS_COLOR" value="c6c6c8" />
+    <option name="METHOD_SEPARATORS_COLOR" value="c5c961" />
+    <option name="MODIFIED_LINES_COLOR" value="ffc568" />
+    <option name="NOTIFICATION_BACKGROUND" value="5781b3" />
+    <option name="READONLY_BACKGROUND" value="f9f9fc" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="ffffff" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="f19054" />
+    <option name="RIGHT_MARGIN_COLOR" value="c6c6c8" />
+    <option name="SELECTED_INDENT_GUIDE" value="c6c6c8" />
+    <option name="SELECTED_TEARLINE_COLOR" value="71a7ca" />
+    <option name="SELECTION_BACKGROUND" value="5781b3" />
+    <option name="SELECTION_FOREGROUND" value="6d6d6f" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="c6c6c8" />
+    <option name="TEARLINE_COLOR" value="c6c6c8" />
+    <option name="WHITESPACES" value="c6c6c8" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffc568" />
+  </colors>
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [1]-+ -->
+</scheme>
